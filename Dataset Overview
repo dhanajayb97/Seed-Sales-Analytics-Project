@@ -1,0 +1,58 @@
+Fields: Product ID, Product Name, Category, Sub-Category, Sales Region, Sale Date, Quantity Sold, Unit Price, Total Revenue, Discount (%), Sales Channel, Customer Type, Season
+
+Time Range: September to December 2024
+
+Scope: Pan-India coverage across 6 regions and 3 seasons
+
+📊 Key Analyses
+1. Revenue Analysis
+Total revenue by region, season, and product category
+
+Top 10 products by revenue
+
+Revenue contribution by customer type and sales channel
+
+2. Discount Impact
+Scatter plot: Discount (%) vs Quantity Sold
+
+Revenue loss/gain due to discount (DAX measure)
+
+Identify optimal discount ranges for high-margin products
+
+3. Regional Trends
+Monthly revenue trend by region
+
+Seasonality decomposition (line chart with trend lines)
+
+Compare performance across Rabi, Kharif, and Zaid seasons
+
+4. Forecasting
+Time series forecasting using Power BI’s Analytics pane
+
+Forecast length: 3 months
+
+Moving averages (7-day and 30-day DAX measures)
+
+Revenue prediction by region using decomposition tree
+
+📈 Visuals for Dashboard
+Line chart: Revenue over time with forecast
+
+Bar chart: Revenue by region
+
+Scatter plot: Discount vs Quantity Sold
+
+Matrix: Customer Type vs Season
+
+Decomposition tree: Revenue drivers
+
+KPI cards: Total Revenue, Avg Discount, Top Region
+
+🧠 Insights & Recommendations
+Focus promotions in East and Central regions during low-revenue months
+
+Optimize discount strategies for high-volume products
+
+Strengthen distributor networks in underperforming regions
+
+Use seasonality trends for inventory and campaign planning
