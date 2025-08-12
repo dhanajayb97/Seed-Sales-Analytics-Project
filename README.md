@@ -11,7 +11,8 @@ This project analyzes seed sales data across India, uncovering trends, forecasti
 - Visual dashboards and insights
 
 ## Tools
-- Python (Pandas, Matplotlib, Seaborn, Statsmodels)
+- Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
-- Power BI (optional)
+- Power BI 
+
 
