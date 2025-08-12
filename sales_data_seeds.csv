@@ -1,0 +1,1001 @@
+﻿Product ID,Product Name,Category,Sub-Category,Sales Region,Sale Date,Quantity Sold,Unit Price (INR),Total Revenue (INR),Discount (%),Sales Channel,Customer Type,Season
+P001,Hybrid Maize Seeds,Cereals,Maize,East,25-11-2024,92,103.84,8635.21,9.61,E-commerce,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,West,22-11-2024,438,115.94,48704.75,4.09,Direct Sales,Retailer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,East,16-11-2024,316,230.37,69819.53,4.09,Retail,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,North,27-10-2024,249,116.58,25713.37,11.42,Wholesale,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,East,20-09-2024,165,469.15,68546.33,11.45,E-commerce,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,04-12-2024,481,303.92,128511.69,12.09,Direct Sales,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,28-12-2024,396,282.83,111026.27,0.87,E-commerce,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,15-10-2024,444,305.15,115353.29,14.86,Direct Sales,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,23-11-2024,269,383.4,96585.55,6.35,E-commerce,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,17-09-2024,375,373.4,121093.62,13.52,Retail,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,13-11-2024,49,229.46,10697.1,4.86,Wholesale,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,21-12-2024,65,61.14,3787.71,4.69,E-commerce,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,30-09-2024,25,337.76,8286.94,1.86,Retail,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,West,23-12-2024,141,117.63,16483,0.62,Direct Sales,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,Central,27-09-2024,138,206.33,28163.18,1.09,E-commerce,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,South,16-09-2024,366,302.37,91654.76,17.18,E-commerce,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,East,16-10-2024,130,384.53,48014.34,3.95,Wholesale,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,East,20-09-2024,48,64.95,2939.9,5.7,Direct Sales,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,17-09-2024,59,196.09,9419.73,18.58,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,South,09-10-2024,335,306.54,90809.56,11.57,Retail,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,01-12-2024,312,336.6,98970.09,5.76,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,29-11-2024,70,143.37,8857.69,11.74,Wholesale,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,West,18-12-2024,315,460.75,119911.57,17.38,E-commerce,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,North,12-09-2024,14,132.87,1695,8.88,Retail,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,North,16-10-2024,18,283.77,4320.74,15.41,E-commerce,Farmer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,24-09-2024,374,397.37,129459.73,12.89,Wholesale,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,26-09-2024,114,151.6,16290.39,5.74,E-commerce,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,East,12-09-2024,336,219.89,73151.6,0.99,E-commerce,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,28-09-2024,265,473.17,106581.54,15,Wholesale,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,Central,15-09-2024,241,64.82,15577.88,0.28,E-commerce,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,14-09-2024,302,113.59,30221.98,11.9,Wholesale,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,16-10-2024,202,499.83,91747.5,9.13,Direct Sales,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,16-12-2024,265,52.97,13502.24,3.81,Direct Sales,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,South,18-11-2024,280,96.72,25137.14,7.18,Retail,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,North,07-12-2024,12,374.57,4145.59,7.77,Retail,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,19-11-2024,337,403.48,131132.13,3.56,Direct Sales,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,01-12-2024,170,61.43,9614.96,7.93,Retail,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,18-12-2024,87,252.3,20613.34,6.09,Wholesale,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,14-10-2024,265,487.02,114115.12,11.58,Wholesale,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,25-10-2024,252,150.41,33404.2,11.87,E-commerce,Farmer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,05-09-2024,347,212.66,65631.51,11.06,Retail,Distributor,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,11-11-2024,99,349.05,33318.85,3.58,Direct Sales,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,02-10-2024,305,213.76,56571.26,13.23,Retail,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,06-09-2024,234,246.8,46940.18,18.72,Direct Sales,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,South,16-11-2024,307,244.11,72116.47,3.77,Retail,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,11-10-2024,421,476.91,187587.92,6.57,Retail,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,North,11-12-2024,139,335.29,42163.82,9.53,Retail,Farmer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,25-11-2024,87,107.83,7958.08,15.17,E-commerce,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,29-12-2024,180,195.11,33556.97,4.45,E-commerce,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,North,14-11-2024,128,286.32,29942.2,18.3,E-commerce,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,02-11-2024,395,397.58,138591.42,11.75,E-commerce,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,09-10-2024,316,447.91,131603.48,7.02,Direct Sales,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,22-09-2024,382,140.04,53104.76,0.73,Wholesale,Distributor,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,24-10-2024,187,224.04,40311.83,3.78,Wholesale,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,North,16-10-2024,250,413.66,83476.59,19.28,E-commerce,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,10-09-2024,352,51.02,15629.75,12.97,Direct Sales,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,13-09-2024,2,304.9,518.03,15.05,Wholesale,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,03-11-2024,257,387.71,84406.29,15.29,E-commerce,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,15-12-2024,289,298.07,70688.31,17.94,Retail,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,Central,27-12-2024,69,127.93,8824.52,0.03,Direct Sales,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,07-12-2024,159,128.23,17897.09,12.22,Retail,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,14-12-2024,276,59.1,15541.69,4.72,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,Central,11-11-2024,372,102.88,34853.73,8.93,E-commerce,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,West,07-10-2024,352,478.26,155351.09,7.72,E-commerce,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,Central,23-11-2024,213,308.37,52973.19,19.35,Retail,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,23-11-2024,295,133.88,32128.86,18.65,E-commerce,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,11-11-2024,49,419,16777.93,18.28,E-commerce,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,14-12-2024,390,241.61,88131.35,6.47,Direct Sales,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,03-09-2024,178,314.43,50556.38,9.67,Wholesale,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,07-09-2024,440,174.44,75755.8,1.3,Direct Sales,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,22-09-2024,223,189.35,39083.51,7.44,Wholesale,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,10-10-2024,460,365.71,149519.8,11.12,Retail,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,29-12-2024,146,309.15,43732.17,3.11,Wholesale,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,21-11-2024,30,122.45,3339.58,9.09,Retail,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,South,27-10-2024,361,459.36,138052.61,16.75,E-commerce,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,East,22-09-2024,409,260.46,96258.83,9.64,Wholesale,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,30-09-2024,201,52.98,8905.74,16.37,E-commerce,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,09-12-2024,464,424.49,172362.64,12.49,E-commerce,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,19-11-2024,453,182.16,80785.59,2.1,Wholesale,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,06-09-2024,111,309.47,28501.17,17.03,Direct Sales,Distributor,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,North,23-10-2024,186,491.26,81953.66,10.31,Wholesale,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,20-12-2024,371,269.17,83484.69,16.4,E-commerce,Distributor,Rabi
+P010,Wheat Seeds,Cereals,Wheat,North,11-12-2024,362,171.45,60140.89,3.1,Retail,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,West,29-11-2024,395,449.91,152319.06,14.29,Direct Sales,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,21-11-2024,244,494.6,104933.35,13.05,Wholesale,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,23-11-2024,235,226.79,53194.39,0.19,Retail,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,24-09-2024,458,52.94,20405.87,15.84,Wholesale,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,23-12-2024,185,337.37,54961.28,11.94,Direct Sales,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,18-10-2024,175,396.43,65649.8,5.37,Direct Sales,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,12-12-2024,189,392.17,66634,10.1,Wholesale,Distributor,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,10-09-2024,172,171.01,26931.2,8.44,E-commerce,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,West,15-09-2024,433,186.7,79709.32,1.4,Direct Sales,Retailer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,Central,04-11-2024,327,397.18,113292.46,12.77,Direct Sales,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,16-11-2024,278,309.36,81908.38,4.76,E-commerce,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,East,31-10-2024,118,256.69,24710.11,18.42,Retail,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,West,04-10-2024,310,73.6,18684.02,18.11,Retail,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,13-12-2024,134,357.56,44568.71,6.98,Direct Sales,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,07-09-2024,57,295.26,13679.28,18.72,Retail,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,15-09-2024,203,437.37,88368.82,0.47,Retail,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,Central,18-12-2024,270,172.55,43476.39,6.68,Wholesale,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,West,19-11-2024,148,430.37,55153.29,13.41,E-commerce,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,West,30-11-2024,456,431.47,194861.52,0.96,Wholesale,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,North,19-09-2024,62,262.3,14073.65,13.46,E-commerce,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,18-11-2024,288,383.11,105701.58,4.2,E-commerce,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,West,23-09-2024,158,132.85,18565.92,11.55,Wholesale,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,Central,24-11-2024,253,110.12,24433.54,12.3,Direct Sales,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,North,24-10-2024,372,149.95,51720.51,7.28,E-commerce,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,11-10-2024,119,299.74,29419.84,17.52,E-commerce,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,27-09-2024,126,478.23,58382.99,3.11,Direct Sales,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,22-12-2024,26,320.18,6963.59,16.35,Wholesale,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,12-12-2024,349,340.74,100390.8,15.58,E-commerce,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,South,08-10-2024,150,485.94,58363.82,19.93,E-commerce,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,18-10-2024,201,113.61,21990.69,3.7,Direct Sales,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,07-10-2024,404,156.21,51673.52,18.12,Wholesale,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,08-09-2024,361,412.94,140052.52,6.05,Wholesale,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,13-11-2024,116,323.71,36611.6,2.5,Direct Sales,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,21-12-2024,313,164,48796.2,4.94,Direct Sales,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,26-11-2024,267,393.76,94673.09,9.95,Direct Sales,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,East,04-09-2024,377,168.36,58933.49,7.15,Direct Sales,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,30-12-2024,271,352.1,81812.34,14.26,E-commerce,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,25-10-2024,480,279.42,121903.12,9.11,Direct Sales,Distributor,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,26-09-2024,494,96.11,39088.92,17.67,Wholesale,Distributor,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,20-10-2024,460,318.11,136438.65,6.76,Retail,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,12-12-2024,301,450.9,110395.38,18.66,E-commerce,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,16-10-2024,59,386.06,18235.7,19.94,Retail,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,Central,02-12-2024,156,101.71,15430.42,2.75,Direct Sales,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,29-12-2024,193,132.91,25059.08,2.31,E-commerce,Farmer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,West,31-10-2024,307,200.77,56680.82,8.04,Direct Sales,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,05-10-2024,326,491.99,138367.37,13.73,Retail,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,North,25-10-2024,410,235.07,84379.55,12.45,Retail,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,11-10-2024,291,355.73,86882.18,16.07,Direct Sales,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,05-12-2024,481,119.88,51307.9,11.02,Retail,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,08-12-2024,345,268.82,91305.39,1.55,Wholesale,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,07-11-2024,172,161.61,22298.69,19.78,Direct Sales,Farmer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,26-11-2024,320,451.23,141606.8,1.93,Retail,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,26-12-2024,143,195.02,27745.63,0.51,Wholesale,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,03-10-2024,433,193.71,72561.5,13.49,E-commerce,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,East,03-09-2024,234,203.71,42529.51,10.78,Wholesale,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,22-12-2024,398,172.8,59806.22,13.04,Retail,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,East,19-12-2024,71,364.77,25189.05,2.74,Direct Sales,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,28-12-2024,193,127.93,21772.07,11.82,E-commerce,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,17-10-2024,214,181.73,33527.26,13.79,Direct Sales,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,29-12-2024,431,55.42,23389.19,2.08,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,South,28-11-2024,177,391.54,63668.28,8.13,Retail,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,South,12-09-2024,176,198.71,28982.09,17.13,Wholesale,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,08-12-2024,490,457.52,197596.48,11.86,E-commerce,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,East,05-09-2024,166,401.63,66230.55,0.66,E-commerce,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,12-09-2024,429,215.72,89073.48,3.75,Wholesale,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,01-10-2024,309,339.17,100087.37,4.5,Direct Sales,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,15-12-2024,60,347.51,17433.19,16.39,Direct Sales,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,05-09-2024,259,455.65,117741.92,0.23,Wholesale,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,03-12-2024,290,356.32,90478.2,12.44,Retail,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,16-11-2024,335,130.31,40650.47,6.88,Retail,Farmer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,14-09-2024,394,209.79,70655.43,14.52,Retail,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,31-12-2024,352,113.76,34885.91,12.88,Retail,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,South,27-10-2024,173,91.37,15669.49,0.87,Direct Sales,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,East,01-11-2024,248,58.06,11807.08,18,Direct Sales,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,South,22-12-2024,129,365.59,42878.88,9.08,Wholesale,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,22-11-2024,350,87.22,30127.1,1.31,Retail,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,20-12-2024,13,271.55,3016.51,14.55,Retail,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,14-11-2024,303,353.08,86078.71,19.54,E-commerce,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,02-09-2024,366,460.61,153781.65,8.78,Retail,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,21-09-2024,447,196.4,82356.55,6.19,E-commerce,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,02-09-2024,374,368.91,120656.81,12.55,Retail,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,18-12-2024,39,410.6,13864.4,13.42,Wholesale,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,25-12-2024,498,144.44,69125.81,3.9,Retail,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,06-11-2024,73,255.32,16245.19,12.84,Direct Sales,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,13-12-2024,185,119.47,19480.66,11.86,Direct Sales,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,East,26-11-2024,421,450.86,164130.49,13.53,Wholesale,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,South,12-12-2024,372,358.43,126469.16,5.15,E-commerce,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,25-12-2024,193,447.09,73681.64,14.61,E-commerce,Farmer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,19-09-2024,416,483.71,167478.2,16.77,Wholesale,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,Central,27-12-2024,256,68.44,15320.05,12.56,Direct Sales,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,01-10-2024,415,150.02,49956.06,19.76,Retail,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,14-11-2024,334,226.33,61359.83,18.83,E-commerce,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,11-12-2024,215,401.57,86242.58,0.11,E-commerce,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,15-10-2024,240,431.97,91263.17,11.97,Direct Sales,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,30-11-2024,311,204.76,57312.32,10,Retail,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,Central,20-09-2024,242,298,57764.92,19.9,Retail,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,North,03-09-2024,139,54.2,7145.81,5.15,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,16-09-2024,453,299.11,129182.68,4.66,E-commerce,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,East,08-09-2024,290,300.22,75353.72,13.45,E-commerce,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,South,07-10-2024,107,474.34,43354.39,14.58,Retail,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,29-12-2024,480,351.68,157344.45,6.79,Wholesale,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,North,01-10-2024,247,158.37,35100.03,10.27,E-commerce,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,06-12-2024,85,297.98,24664.7,2.62,Retail,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,West,21-09-2024,27,93.9,2241.46,11.59,Direct Sales,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,06-11-2024,390,109.02,38346.8,9.81,Retail,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,West,25-12-2024,10,63.77,615.13,3.54,E-commerce,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,20-12-2024,460,235.45,99512.47,8.12,E-commerce,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,East,28-09-2024,44,230.96,9937.65,2.21,E-commerce,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,10-11-2024,476,70.58,28882.55,14.03,E-commerce,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,11-09-2024,38,111.35,3419.74,19.18,E-commerce,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,West,21-12-2024,450,146.53,59291.9,10.08,Retail,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,08-10-2024,93,368.51,33531.17,2.16,Wholesale,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,North,10-09-2024,451,281.44,121192.23,4.52,Retail,Retailer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,West,22-10-2024,283,324.9,82862.37,9.88,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,South,14-12-2024,374,207.04,74815.73,3.38,Wholesale,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,09-09-2024,291,173.42,46322.03,8.21,Wholesale,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,31-10-2024,417,473.54,193753.82,1.88,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,20-12-2024,472,297.91,125061.66,11.06,Wholesale,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,12-11-2024,428,321.77,129674.85,5.84,E-commerce,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,03-11-2024,460,392.23,149302.35,17.25,Direct Sales,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,South,11-12-2024,242,327.31,72634.67,8.3,Retail,Distributor,Kharif
+P008,Soybean Seeds,Pulses,Soybean,Central,16-10-2024,49,474.21,19467.36,16.22,Retail,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,West,06-10-2024,359,386.36,128147.92,7.61,Direct Sales,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,West,17-10-2024,265,469.45,101949.28,18.05,Wholesale,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,25-11-2024,357,289.18,85480.45,17.2,Wholesale,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,20-09-2024,118,377.7,44038.23,1.19,Retail,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,10-09-2024,71,493.8,34277.97,2.23,Wholesale,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,10-10-2024,249,171.65,35564.66,16.79,E-commerce,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,24-11-2024,318,481.91,147531.25,3.73,Retail,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,12-12-2024,64,305.78,17812.54,8.98,Retail,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,South,06-10-2024,184,160.96,25162.3,15.04,Wholesale,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,East,14-11-2024,158,412.03,58740.4,9.77,E-commerce,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,Central,08-12-2024,109,54.28,5138.5,13.15,Retail,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,09-11-2024,454,423.22,154655,19.51,Retail,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,28-10-2024,142,482.23,55815.33,18.49,E-commerce,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,North,27-10-2024,81,384.95,29132.36,6.57,E-commerce,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,29-09-2024,50,112.47,5459.86,2.91,Wholesale,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,27-11-2024,40,103.81,3835.57,7.63,Direct Sales,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,East,24-12-2024,381,289.29,101798.72,7.64,E-commerce,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,East,13-09-2024,32,87.48,2262.72,19.17,Direct Sales,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,North,26-11-2024,55,201.29,8946.43,19.19,Retail,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,25-11-2024,384,103.09,32425.35,18.09,E-commerce,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,East,18-10-2024,291,353.45,95849.6,6.81,Retail,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,18-09-2024,317,53.98,14917.95,12.82,Direct Sales,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,03-10-2024,252,122.27,24988.56,18.9,E-commerce,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,27-11-2024,488,268.3,118426.55,9.55,Wholesale,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,28-11-2024,325,482.39,145567.21,7.15,Direct Sales,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,23-11-2024,128,229,23827.72,18.71,Retail,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,25-09-2024,55,362.73,16025.96,19.67,Retail,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,05-09-2024,236,288.37,60936.73,10.46,E-commerce,Farmer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,30-12-2024,419,373.39,152961.57,2.23,Direct Sales,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,Central,07-11-2024,215,175.41,36898.55,2.16,Wholesale,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,08-11-2024,474,68.65,26839.07,17.52,Direct Sales,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,22-11-2024,13,174.83,2038.92,10.29,Wholesale,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,11-11-2024,30,454.09,13288.94,2.45,Wholesale,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,19-11-2024,249,161.34,36071.93,10.21,Wholesale,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,19-11-2024,217,96.09,20615.91,1.13,Direct Sales,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,23-10-2024,20,186.65,3151.4,15.58,Wholesale,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,Central,12-11-2024,425,130.35,44906.23,18.94,Retail,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,North,06-10-2024,116,84.94,8318.92,15.57,Direct Sales,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,South,19-10-2024,405,277.09,101751.19,9.33,E-commerce,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,07-12-2024,188,373.67,62571.64,10.93,Retail,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,19-10-2024,261,313.02,78128.01,4.37,Wholesale,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,Central,22-10-2024,401,176.25,59339.78,16.04,Direct Sales,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,South,27-10-2024,403,73.77,24713.98,16.87,Retail,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,East,03-09-2024,443,326.33,118224.59,18.22,Direct Sales,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,24-09-2024,139,348.68,46566.63,3.92,Retail,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,02-09-2024,343,278.42,88622.2,7.2,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,06-09-2024,112,347.36,36009.84,7.44,Direct Sales,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,05-09-2024,376,227.35,76131.69,10.94,Wholesale,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,26-11-2024,421,319.64,116213.3,13.64,E-commerce,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,08-10-2024,129,251.87,32013.61,1.47,Wholesale,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,26-09-2024,169,381.47,54688.57,15.17,Retail,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,East,11-09-2024,90,58.84,4516.09,14.72,Wholesale,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,08-10-2024,464,485.91,211866.87,6.03,Wholesale,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,11-12-2024,138,388.14,51152.97,4.5,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,West,01-11-2024,138,308.77,37203.02,12.69,Direct Sales,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,07-11-2024,43,134.47,5155.42,10.84,Wholesale,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,15-10-2024,70,401.05,22543.02,19.7,Retail,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,05-10-2024,466,255.99,115271.22,3.37,Wholesale,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,10-11-2024,230,124.82,24023.36,16.32,E-commerce,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,02-09-2024,379,68.83,22217.93,14.83,Direct Sales,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,Central,07-09-2024,361,353.47,112201.03,12.07,Retail,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,North,18-12-2024,353,422.71,132981.86,10.88,E-commerce,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,South,22-10-2024,66,396.81,26000.9,0.72,E-commerce,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,16-09-2024,416,420.69,171016.88,2.28,Retail,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,19-11-2024,100,119.67,10910.31,8.83,Retail,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,15-11-2024,251,487.63,100608.8,17.8,Retail,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,25-11-2024,10,177.49,1681.54,5.26,Retail,Distributor,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,South,14-11-2024,80,325.53,23404.3,10.13,Direct Sales,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,East,01-11-2024,331,255.37,79531.9,5.91,Retail,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,18-12-2024,150,249.67,34604.26,7.6,E-commerce,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,20-10-2024,293,203.29,53399.1,10.35,E-commerce,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,Central,13-12-2024,33,144.94,3854.16,19.42,Direct Sales,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,07-12-2024,430,76.08,30143.05,7.86,Retail,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,24-12-2024,329,184.09,53558.17,11.57,Retail,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,10-10-2024,463,206.78,85830.14,10.35,E-commerce,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,25-10-2024,391,479.09,154448.79,17.55,Direct Sales,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,07-10-2024,304,55.15,14363.09,14.33,E-commerce,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,04-12-2024,66,211.33,12212.68,12.44,Retail,Farmer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,North,19-09-2024,223,256.92,53064.92,7.38,E-commerce,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,16-10-2024,410,425.24,141082.73,19.08,E-commerce,Distributor,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,West,24-12-2024,216,312.43,62234.56,7.78,Direct Sales,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,30-10-2024,279,70.14,19144.41,2.17,Retail,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,West,17-11-2024,301,199.15,56719.15,5.38,Retail,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,21-12-2024,7,251.06,1495.74,14.89,E-commerce,Farmer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,05-12-2024,253,307.86,76751.41,1.46,Retail,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,13-12-2024,5,265.88,1239.67,6.75,Direct Sales,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,27-09-2024,293,412.59,118700.78,1.81,Retail,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,26-10-2024,45,340.9,12447.28,18.86,Wholesale,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,South,22-09-2024,389,263.61,82978.84,19.08,E-commerce,Farmer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,West,25-12-2024,203,223.64,42062.1,7.35,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,North,08-10-2024,462,202.57,85931.9,8.18,E-commerce,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,South,16-09-2024,361,164.46,50221.13,15.41,E-commerce,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,26-12-2024,76,236.17,14640.93,18.43,Direct Sales,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,09-12-2024,301,411,113207.94,8.49,Wholesale,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,North,15-09-2024,375,321.57,108783.11,9.79,Wholesale,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,West,29-11-2024,6,468.52,2762.49,1.73,Wholesale,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,14-10-2024,371,259.21,86463.67,10.09,Retail,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,10-12-2024,448,492.66,193233.08,12.45,Direct Sales,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,East,24-11-2024,319,478.2,122326.48,19.81,Retail,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,Central,09-09-2024,226,439.06,82210.03,17.15,Retail,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,South,20-09-2024,167,244.78,36622.83,10.41,Direct Sales,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,17-09-2024,96,417.65,37207.6,7.2,Retail,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,28-09-2024,432,422.06,151880.82,16.7,Direct Sales,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,West,30-09-2024,127,317.95,38655.44,4.27,Wholesale,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,26-11-2024,210,53.97,10119.86,10.71,Wholesale,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,19-12-2024,194,271.11,45842.1,12.84,Retail,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,East,11-09-2024,498,374.63,183860.54,1.45,E-commerce,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,East,14-10-2024,150,450.94,66991.65,0.96,Retail,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,11-10-2024,235,73.43,17026.54,1.33,Wholesale,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,East,24-11-2024,256,438.07,98273.47,12.37,E-commerce,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,East,10-10-2024,89,256.83,21842.98,4.44,E-commerce,Farmer,Kharif
+P009,Chilli Seeds,Spices,Chilli,North,19-10-2024,149,414.51,58272.44,5.65,E-commerce,Farmer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,11-11-2024,469,120.82,55820.28,1.49,Direct Sales,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,Central,10-09-2024,454,218.91,94942.62,4.47,Direct Sales,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,North,12-12-2024,348,174.06,58616.38,3.23,Wholesale,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,West,15-12-2024,275,389.3,105173.29,1.76,Retail,Farmer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,South,12-11-2024,313,266.88,83174.25,0.43,E-commerce,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,15-10-2024,299,408.99,118509.31,3.09,Wholesale,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,29-09-2024,371,482.33,173898.2,2.82,Direct Sales,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,South,12-11-2024,226,458.95,98826.99,4.72,Wholesale,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,04-10-2024,274,396.3,106837.96,1.61,E-commerce,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,West,12-09-2024,162,310.35,49467.25,1.61,Wholesale,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,13-12-2024,314,320.32,84045.05,16.44,E-commerce,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,03-09-2024,85,264.98,18917.32,16.01,Retail,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,North,11-11-2024,450,83.41,32748.85,12.75,Direct Sales,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,15-11-2024,364,468.51,165574.99,2.91,Retail,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,Central,01-12-2024,89,281.72,24115.29,3.82,Direct Sales,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,22-09-2024,288,302.99,77278.45,11.44,Retail,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,20-09-2024,72,334.21,22710.77,5.62,Direct Sales,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,05-09-2024,469,330.5,139287.04,10.14,E-commerce,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,North,11-10-2024,445,56.8,23200.84,8.21,Retail,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,18-12-2024,199,435.64,74936.88,13.56,Wholesale,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,16-09-2024,26,328,8315.65,2.49,Retail,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,Central,13-12-2024,253,443.99,108779.86,3.16,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,12-11-2024,91,491.72,40330.04,9.87,Retail,Distributor,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,West,03-09-2024,490,496.19,221372.69,8.95,Wholesale,Farmer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,North,18-10-2024,228,315.78,70082.7,2.66,Wholesale,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,04-12-2024,95,260.36,22940.97,7.25,E-commerce,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,13-12-2024,310,175.1,47859.56,11.83,Wholesale,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,13-12-2024,213,456.26,94209.57,3.06,Retail,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,12-09-2024,397,443.31,156933.91,10.83,Retail,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,02-11-2024,235,260.06,55283.81,9.54,Wholesale,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,30-10-2024,297,315.56,78172.95,16.59,Direct Sales,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,South,08-12-2024,327,396.58,110255.35,14.98,Wholesale,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,South,02-09-2024,5,275.35,1252.15,9.05,E-commerce,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,West,20-09-2024,191,212.43,38070.71,6.17,E-commerce,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,22-10-2024,268,471.03,109787.48,13.03,E-commerce,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,06-10-2024,117,306.58,35493.23,1.05,Direct Sales,Distributor,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,West,11-11-2024,330,178.27,53410.94,9.21,Wholesale,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,02-11-2024,151,233.48,28599.25,18.88,Retail,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,13-10-2024,116,288.28,27598.43,17.47,Retail,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,29-09-2024,302,55.39,15627.09,6.58,Retail,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,05-09-2024,1,333.94,274.26,17.87,Direct Sales,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,19-11-2024,242,254.56,54907.22,10.87,Direct Sales,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,09-11-2024,42,455.37,16493.87,13.76,E-commerce,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,East,14-12-2024,128,105.5,12611.39,6.61,Direct Sales,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,South,12-11-2024,258,398.31,92847.26,9.65,Wholesale,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,23-12-2024,190,453.8,71012.44,17.64,Retail,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,11-09-2024,312,188.64,49091.52,16.59,E-commerce,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,12-11-2024,27,216.77,4993.02,14.69,Retail,Distributor,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,North,12-11-2024,244,177.43,39890.1,7.86,Retail,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,North,14-09-2024,200,254.14,48586.49,4.41,Retail,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,04-11-2024,320,382.58,111113.47,9.24,Direct Sales,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,North,17-10-2024,472,487.08,220176.92,4.23,Wholesale,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,Central,16-11-2024,40,432.72,17073.4,1.36,Direct Sales,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,South,07-09-2024,410,55.16,19410.97,14.17,Direct Sales,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,27-10-2024,60,194.88,10357.48,11.42,Retail,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,West,27-10-2024,382,453.64,150260.18,13.29,E-commerce,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,08-10-2024,427,190.77,79748.16,2.1,Wholesale,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,02-12-2024,428,394.56,145432.29,13.88,E-commerce,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,17-11-2024,57,119.92,6553.14,4.13,E-commerce,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,03-09-2024,46,243.49,10954.13,2.2,Direct Sales,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,13-10-2024,322,232.96,72530.19,3.31,Wholesale,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,24-09-2024,361,329.78,97502.43,18.1,Direct Sales,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,03-11-2024,85,144.76,11491.27,6.61,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,West,04-11-2024,90,377.62,29108.84,14.35,Wholesale,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,North,12-09-2024,338,222.29,74886.08,0.33,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,25-09-2024,440,219.9,83529.45,13.67,Direct Sales,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,27-10-2024,442,207.45,84825.1,7.49,E-commerce,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,North,28-11-2024,463,322.54,139061.7,6.88,Direct Sales,Distributor,Rabi
+P010,Wheat Seeds,Cereals,Wheat,North,23-12-2024,456,271.2,121787.46,1.52,E-commerce,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,East,04-09-2024,187,366.35,65191.69,4.84,E-commerce,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,03-11-2024,136,290.3,38497.73,2.49,Retail,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,West,29-11-2024,65,386.06,22080.12,12.01,Wholesale,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,05-11-2024,459,327.5,142580.89,5.15,Wholesale,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,Central,06-12-2024,483,432.99,185878.45,11.12,Direct Sales,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,02-10-2024,137,83.84,9757.42,15.05,Retail,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,25-11-2024,305,88.2,22760.94,15.39,Wholesale,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,South,14-09-2024,340,213.58,70947,2.3,Direct Sales,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,14-09-2024,249,274.77,63368.5,7.38,E-commerce,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,19-12-2024,87,342.65,27410.8,8.05,Direct Sales,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,28-10-2024,67,473.65,29763.83,6.21,Retail,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,09-12-2024,369,130.42,41984.23,12.76,Wholesale,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,18-11-2024,349,420.25,134684.54,8.17,Wholesale,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,Central,10-12-2024,425,74.71,28325.74,10.79,Wholesale,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,East,27-09-2024,331,487.55,136139.37,15.64,Wholesale,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,24-09-2024,5,207.63,1007.11,2.99,Direct Sales,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,04-12-2024,165,220.16,32290.54,11.11,E-commerce,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,23-09-2024,269,240.47,62480.62,3.41,Retail,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,26-12-2024,451,298.74,128924.8,4.31,Direct Sales,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,09-12-2024,37,262.55,8665.2,10.8,Retail,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,East,16-09-2024,375,114.41,38424.6,10.44,Retail,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,19-12-2024,192,56.02,9280.14,13.72,Wholesale,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,08-09-2024,418,144.27,52175.76,13.48,E-commerce,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,18-10-2024,367,407.14,132266.92,11.48,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,14-11-2024,49,347.64,13877.89,18.53,E-commerce,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,30-10-2024,454,373.03,151657.96,10.45,E-commerce,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,Central,04-10-2024,3,292.51,717.21,18.27,E-commerce,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,09-09-2024,99,390.04,32841.17,14.95,Retail,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,West,11-12-2024,388,439.79,152329.01,10.73,Retail,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,02-10-2024,315,137.79,40005.33,7.83,Direct Sales,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,South,22-09-2024,330,200.7,65045.47,1.79,Direct Sales,Distributor,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,West,03-09-2024,385,293.95,110013.29,2.79,Wholesale,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,07-11-2024,265,403.9,92605.38,13.48,Retail,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,North,28-12-2024,308,52.58,13631.03,15.83,E-commerce,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,20-09-2024,41,72.86,2612.96,12.53,Direct Sales,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,12-11-2024,137,471.34,63585.6,1.53,Retail,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,17-12-2024,446,320.1,118052.05,17.31,Wholesale,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,East,06-11-2024,50,275.35,12579.36,8.63,Direct Sales,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,22-11-2024,469,339.37,142627.34,10.39,Wholesale,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,27-10-2024,325,485.6,138565.96,12.2,Wholesale,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,23-10-2024,70,179.8,11307.26,10.16,Wholesale,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,14-09-2024,355,65.73,23205.81,0.55,Wholesale,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,East,09-10-2024,172,63.36,8955.91,17.82,Wholesale,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,16-10-2024,482,276.42,112862.89,15.29,E-commerce,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,15-10-2024,227,237.79,51846.19,3.95,Direct Sales,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,East,14-11-2024,336,119.43,39466.36,1.65,Wholesale,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,25-10-2024,94,415.03,36761.78,5.77,Direct Sales,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,29-11-2024,483,391.2,176667.88,6.5,Wholesale,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,East,01-10-2024,356,459.75,142622.91,12.86,Wholesale,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,10-11-2024,21,121.56,2421.8,5.13,Retail,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,East,09-10-2024,208,140.45,24618.3,15.73,Direct Sales,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,09-09-2024,385,267.73,91892.3,10.85,E-commerce,Farmer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,West,19-10-2024,414,367.71,132761.47,12.79,Direct Sales,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,11-09-2024,432,449.93,169645.93,12.72,Retail,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,West,08-12-2024,4,260.13,958.42,7.89,Wholesale,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,15-11-2024,366,299.22,88575.34,19.12,E-commerce,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,27-11-2024,245,206.07,42328.43,16.16,Wholesale,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,Central,10-09-2024,130,333.38,41549.48,4.13,Direct Sales,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,07-09-2024,16,345.1,4773.42,13.55,Direct Sales,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,06-11-2024,89,427.16,37104.83,2.4,Wholesale,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,30-11-2024,364,235.93,78338.39,8.78,E-commerce,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,South,25-11-2024,344,52.93,14611.86,19.75,Direct Sales,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,29-10-2024,176,175.76,29857.27,3.48,Retail,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,West,11-12-2024,312,289.34,79170.37,12.3,Wholesale,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,28-12-2024,447,484.44,184452.76,14.82,Retail,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,30-09-2024,57,262.35,14717.68,1.58,Direct Sales,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,22-09-2024,135,372.51,43117.66,14.26,Wholesale,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,11-09-2024,449,451.82,166858.26,17.75,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,19-12-2024,298,227.43,61776.13,8.85,Wholesale,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,28-12-2024,217,380.16,73610.04,10.77,E-commerce,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,West,29-11-2024,485,447.6,208098.64,4.14,Retail,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,South,20-12-2024,26,91.6,2071.28,13.03,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,West,30-11-2024,380,378.76,117316.36,18.49,Retail,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,South,06-09-2024,380,211.88,67664.3,15.96,Wholesale,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,23-09-2024,361,201.98,72564.79,0.48,Wholesale,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,North,04-11-2024,356,431.66,128576.49,16.33,Direct Sales,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,17-11-2024,344,411.75,136769.52,3.44,Retail,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,Central,11-11-2024,243,311.42,71573.47,5.42,E-commerce,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,South,02-09-2024,213,244.12,44858.3,13.73,E-commerce,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,West,27-09-2024,124,91.68,10885.17,4.25,Wholesale,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,South,16-10-2024,124,134.38,13563.78,18.6,E-commerce,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,East,19-09-2024,304,120.9,31887.42,13.24,Wholesale,Farmer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,South,26-11-2024,172,395.91,67129.55,1.42,Direct Sales,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,North,06-10-2024,156,339.79,45029.65,15.05,Retail,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,11-11-2024,265,185.38,45799.89,6.77,Retail,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,01-09-2024,177,203.4,32423.22,9.94,E-commerce,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,24-10-2024,22,160.33,3311.74,6.11,E-commerce,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,11-10-2024,32,349.4,11108.12,0.65,Wholesale,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,20-12-2024,130,229.81,29555.63,1.07,Direct Sales,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,East,19-11-2024,169,306.79,51360.14,0.94,Direct Sales,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,South,16-10-2024,486,59.84,25569.11,12.08,E-commerce,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,21-11-2024,121,95.98,9571.91,17.58,E-commerce,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,06-09-2024,273,99.66,22796.9,16.21,Direct Sales,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,13-09-2024,250,373.75,92017.25,1.52,Wholesale,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,23-11-2024,266,494.97,124920.92,5.12,Retail,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,05-11-2024,434,125.24,47206.59,13.15,Retail,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,11-11-2024,430,161.42,67161.7,3.24,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,28-12-2024,208,184.24,31090.57,18.87,Retail,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,30-10-2024,33,419.72,12395.05,10.51,E-commerce,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,15-09-2024,205,314.5,60436.52,6.26,Wholesale,Distributor,Kharif
+P008,Soybean Seeds,Pulses,Soybean,West,12-10-2024,419,345.85,133752.99,7.7,Direct Sales,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,24-10-2024,260,92.74,19675.72,18.4,Direct Sales,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,09-09-2024,287,423.22,106086.78,12.66,Wholesale,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,22-11-2024,371,174.45,56100.12,13.32,Direct Sales,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,19-12-2024,103,313.31,26155.59,18.95,Direct Sales,Retailer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,Central,02-10-2024,308,303.05,83538.76,10.5,Direct Sales,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,01-10-2024,8,372.85,2968.78,0.47,Retail,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,28-11-2024,481,113.16,50364.04,7.47,E-commerce,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,21-12-2024,331,119.46,35251.03,10.85,Direct Sales,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,West,11-10-2024,27,455.74,10738.56,12.73,Retail,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,18-12-2024,257,88.59,18407.63,19.15,Retail,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,11-09-2024,111,402.04,38851.78,12.94,Direct Sales,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,26-09-2024,62,64.79,3726.15,7.24,E-commerce,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,25-10-2024,249,146.78,31902.94,12.71,Direct Sales,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,28-10-2024,282,89.96,22697.39,10.53,Direct Sales,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,05-10-2024,385,303.75,113879.82,2.62,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,04-12-2024,230,497.97,94134.75,17.81,Direct Sales,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,East,26-12-2024,78,332.55,25119.23,3.16,E-commerce,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,Central,26-12-2024,208,444.11,87802.32,4.95,Retail,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,West,14-11-2024,222,363.48,69161.59,14.29,Wholesale,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,North,09-11-2024,161,96.07,14052.01,9.15,Wholesale,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,North,25-12-2024,104,86.85,8176.13,9.48,Wholesale,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,West,11-09-2024,65,352.2,22709.86,0.8,E-commerce,Farmer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,South,11-09-2024,446,394.42,161908.78,7.96,Wholesale,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,21-09-2024,318,482.76,138872.09,9.54,Retail,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,10-09-2024,439,123.13,46275.69,14.39,E-commerce,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,13-12-2024,126,388.35,42380.09,13.39,E-commerce,Distributor,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,South,22-09-2024,388,351.74,121380.97,11.06,Retail,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,30-09-2024,417,319.86,128459.84,3.69,Wholesale,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,09-11-2024,30,446.07,13097.06,2.13,Wholesale,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,09-09-2024,174,134.7,20435.42,12.81,Retail,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,30-11-2024,51,400.52,17852.78,12.6,Direct Sales,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,14-12-2024,302,315.32,83837.53,11.96,Retail,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,26-09-2024,405,217.33,76118.53,13.52,Wholesale,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,South,04-12-2024,289,205.81,48612.26,18.27,E-commerce,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,12-11-2024,123,498.53,59780.08,2.51,E-commerce,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,18-12-2024,413,400.69,135168.12,18.32,E-commerce,Farmer,Kharif
+P009,Chilli Seeds,Spices,Chilli,South,22-09-2024,271,288.42,72026.12,7.85,Wholesale,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,01-11-2024,155,292,40634.43,10.22,Retail,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,East,20-10-2024,26,129.29,2722.85,19,E-commerce,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,03-11-2024,265,319.83,70846.66,16.41,Retail,Farmer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,North,30-10-2024,33,144.11,3984.27,16.22,E-commerce,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,19-11-2024,41,204,7583.64,9.33,E-commerce,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,East,05-09-2024,241,261.2,61967.19,1.56,Direct Sales,Distributor,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,30-10-2024,349,170.86,55348.7,7.18,Direct Sales,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,14-10-2024,381,294.45,94000.19,16.21,Direct Sales,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,07-11-2024,397,319.42,102272.06,19.35,E-commerce,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,12-10-2024,122,130.62,13252.08,16.84,Retail,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,02-09-2024,461,346.86,129121.24,19.25,Retail,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,02-11-2024,196,319.16,50957.6,18.54,E-commerce,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,25-09-2024,179,451.34,79553.78,1.53,Direct Sales,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,09-11-2024,169,117.8,18610.19,6.52,E-commerce,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,04-09-2024,403,176.1,70074.1,1.26,Retail,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,14-10-2024,160,444.69,60990.12,14.28,E-commerce,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,22-10-2024,282,219.81,59011.07,4.8,Retail,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,North,03-09-2024,38,380.33,12043.3,16.67,Direct Sales,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,Central,01-10-2024,335,62.58,20601.62,1.73,Wholesale,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,Central,18-12-2024,263,199.62,50473.56,3.86,Direct Sales,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,27-12-2024,310,341.21,104368.29,1.33,Wholesale,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,South,08-12-2024,284,426.33,116113.53,4.1,Retail,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,South,30-11-2024,377,348.97,119786.92,8.95,Retail,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,South,30-10-2024,95,314.18,27360.84,8.33,Wholesale,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,03-09-2024,288,318.19,79789.83,12.93,E-commerce,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,08-10-2024,225,393.54,78053.74,11.85,Wholesale,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,Central,09-12-2024,134,262.12,33213.33,5.44,Direct Sales,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,30-11-2024,406,158.86,59511.53,7.73,E-commerce,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,South,01-11-2024,403,206.19,74635.54,10.18,Direct Sales,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,West,18-11-2024,135,463.25,50856.51,18.68,E-commerce,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,15-10-2024,239,107.18,23907.43,6.67,Direct Sales,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,11-11-2024,251,116.16,27739.17,4.86,Wholesale,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,29-09-2024,261,138.91,29928.92,17.45,Wholesale,Farmer,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,16-09-2024,309,51.98,15811.26,1.56,Retail,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,South,12-09-2024,41,87.75,2889.35,19.69,Wholesale,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,South,02-12-2024,345,358.77,107053.56,13.51,E-commerce,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,01-10-2024,359,116.45,39890.86,4.58,Retail,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,04-12-2024,380,193.19,72979.07,0.59,Wholesale,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,30-09-2024,47,231.57,10129.54,6.93,Retail,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,22-12-2024,273,121.75,26999.02,18.77,Wholesale,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,13-09-2024,423,250.03,98306.42,7.05,Retail,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,Central,31-10-2024,133,365.3,46733.82,3.81,E-commerce,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,11-09-2024,276,420.4,108511.63,6.48,Retail,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,West,13-10-2024,418,109.43,38162.33,16.57,Direct Sales,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,08-11-2024,28,189.55,4784.09,9.86,Wholesale,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,22-11-2024,195,456.46,85520.52,3.92,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,09-10-2024,458,392.6,145682.71,18.98,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,27-11-2024,481,254.47,102253.02,16.46,Retail,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,03-12-2024,377,433.45,133816.98,18.11,Direct Sales,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,06-12-2024,69,62.5,3871.33,10.23,Retail,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,27-12-2024,58,236.8,10993.01,19.96,Retail,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,West,15-09-2024,283,210.47,56906.5,4.46,E-commerce,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,04-09-2024,477,191.17,77728.73,14.76,E-commerce,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,South,14-10-2024,360,405.44,145301.59,0.45,Wholesale,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,North,24-11-2024,259,317.03,73809.37,10.11,E-commerce,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,North,18-12-2024,57,415.8,23250.29,1.9,Direct Sales,Farmer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,11-09-2024,95,182.78,16877.91,2.8,Retail,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,27-11-2024,384,117.07,37294.57,17.04,Wholesale,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,03-09-2024,86,292.87,24564.71,2.47,Retail,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,14-11-2024,41,52.4,2083.52,3.02,Retail,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,14-09-2024,279,481.71,116105.65,13.61,Retail,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,06-11-2024,262,418.9,96976.69,11.64,Retail,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,West,21-09-2024,211,234.15,44267.46,10.4,Direct Sales,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,02-12-2024,119,219.75,25253.3,3.43,Direct Sales,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,25-11-2024,78,375.84,23581.4,19.56,E-commerce,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,South,19-11-2024,180,122.32,20064.64,8.87,Retail,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,Central,02-11-2024,293,126.96,30402.97,18.27,Wholesale,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,06-11-2024,259,50.14,12608.36,2.91,E-commerce,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,21-10-2024,184,453.34,72812.57,12.71,Direct Sales,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,05-12-2024,370,341.89,117441.95,7.16,Wholesale,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,10-10-2024,103,279.59,27939.6,2.98,Wholesale,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,28-10-2024,102,170.09,15074.7,13.11,E-commerce,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,East,09-11-2024,16,323.82,4563.53,11.92,E-commerce,Distributor,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,South,07-11-2024,70,242.57,14626.49,13.86,Direct Sales,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,05-10-2024,492,158.01,75292.08,3.15,Wholesale,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,West,06-09-2024,62,125.11,7716.48,0.52,Retail,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,06-11-2024,111,50.67,4507.93,19.85,Wholesale,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,05-12-2024,52,173.43,8683.78,3.71,Wholesale,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,21-10-2024,175,230.98,38990.58,3.54,Wholesale,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,26-12-2024,267,322.25,76645.1,10.92,Direct Sales,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,21-09-2024,113,255.08,28380.15,1.54,E-commerce,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,West,30-11-2024,320,230.38,60495.94,17.94,Direct Sales,Distributor,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,South,05-12-2024,324,329.78,85703.36,19.79,Retail,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,07-10-2024,199,82.28,16154.31,1.34,E-commerce,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,24-10-2024,460,158.37,71101.8,2.4,Direct Sales,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,09-09-2024,65,185.31,9945.68,17.43,Retail,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,Central,03-12-2024,373,457.08,141234.61,17.16,Retail,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,14-11-2024,468,452.36,196906.34,6.99,Wholesale,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,21-10-2024,120,491.91,48805.34,17.32,E-commerce,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,South,28-12-2024,398,280.15,95733.64,14.14,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,South,08-12-2024,413,207.21,81119.13,5.21,Wholesale,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,South,30-12-2024,184,402.53,61007.77,17.63,E-commerce,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,21-11-2024,276,228.37,50928.34,19.2,Retail,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,East,22-12-2024,193,298.3,53150.38,7.68,Wholesale,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,22-10-2024,338,316.37,90476.06,15.39,Wholesale,Distributor,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,South,08-12-2024,250,397.94,95435.96,4.07,E-commerce,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,03-10-2024,386,429.42,152611.66,7.93,Wholesale,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,18-10-2024,117,480.59,55756.71,0.84,Wholesale,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,03-10-2024,196,51.83,9951.44,2.04,Wholesale,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,02-09-2024,166,341,51664.3,8.73,E-commerce,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,East,25-09-2024,177,138.96,23098.03,6.09,Retail,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,North,09-09-2024,27,99.47,2422.22,9.81,Wholesale,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,13-12-2024,443,105.7,39150.47,16.39,E-commerce,Distributor,Kharif
+P008,Soybean Seeds,Pulses,Soybean,West,10-11-2024,168,53.71,8734.54,3.2,Retail,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,20-12-2024,483,421.93,203017.78,0.38,Wholesale,Farmer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,North,27-11-2024,189,415.94,63015.91,19.84,E-commerce,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,30-10-2024,352,51.17,15650.49,13.11,E-commerce,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,South,29-12-2024,224,365.46,79693.67,2.65,Retail,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,Central,06-11-2024,44,152.35,6419.85,4.23,E-commerce,Farmer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,25-11-2024,83,382.97,28900.29,9.08,E-commerce,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,North,04-12-2024,497,195.65,96051.75,1.22,Wholesale,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,26-10-2024,182,129.42,20680.8,12.2,Retail,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,29-11-2024,162,462.42,65330.79,12.79,Wholesale,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,08-12-2024,430,121.06,41842.45,19.62,Wholesale,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,23-09-2024,152,219.81,30156.88,9.74,Retail,Farmer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,West,07-11-2024,73,364.57,25298.9,4.94,Direct Sales,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,27-12-2024,197,481.66,86612.87,8.72,E-commerce,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,09-09-2024,277,320.83,72428.98,18.5,Wholesale,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,16-12-2024,69,163.36,10666.54,5.37,Wholesale,Distributor,Kharif
+P008,Soybean Seeds,Pulses,Soybean,North,06-09-2024,356,367.32,128098.3,2.04,Retail,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,05-09-2024,101,168.26,14368.65,15.45,Retail,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,03-12-2024,102,329.84,32308.03,3.97,Retail,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,08-10-2024,200,122.94,22797.99,7.28,E-commerce,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,30-11-2024,381,491.46,186628.35,0.33,E-commerce,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,03-09-2024,326,177.48,48172.97,16.74,Wholesale,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,North,22-12-2024,421,257.36,103267.01,4.69,Direct Sales,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,20-12-2024,251,417.13,92303.19,11.84,Retail,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,09-10-2024,393,452.32,177086.27,0.38,Retail,Distributor,Rabi
+P010,Wheat Seeds,Cereals,Wheat,Central,09-11-2024,212,344.23,61490.22,15.74,E-commerce,Retailer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,South,10-10-2024,222,165.43,30390.32,17.25,Direct Sales,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,24-09-2024,236,438.98,92534.88,10.68,Retail,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,East,02-12-2024,24,219.36,4218.03,19.88,Direct Sales,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,South,26-09-2024,431,283.95,108773.52,11.12,Direct Sales,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,East,16-10-2024,392,73.7,23233.66,19.58,Direct Sales,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,16-11-2024,107,249.83,23676.36,11.43,Direct Sales,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,North,04-10-2024,50,448.87,18560.77,17.3,Wholesale,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,East,19-10-2024,44,161.25,6452.9,9.05,Retail,Distributor,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,North,29-11-2024,355,455.2,152191.11,5.82,Direct Sales,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,27-12-2024,343,480.59,143775.52,12.78,Retail,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,East,11-11-2024,114,150.67,15848.65,7.73,E-commerce,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,17-09-2024,102,233.29,19226.83,19.2,Direct Sales,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,14-11-2024,225,245.85,47638.35,13.88,E-commerce,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,29-12-2024,294,107.16,28946.83,8.12,Direct Sales,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,04-12-2024,17,97.27,1470.04,11.1,Direct Sales,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,19-10-2024,490,423.75,196404.31,5.41,Retail,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,30-09-2024,497,491.17,222800.56,8.73,Wholesale,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,South,23-09-2024,115,452.23,51106.74,1.73,Retail,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,West,10-12-2024,287,178.86,46887.4,8.66,Retail,Farmer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,West,05-10-2024,347,266.44,88488.37,4.29,Retail,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,28-12-2024,472,422.11,186185.97,6.55,Retail,Farmer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,Central,20-10-2024,239,78.41,16819.14,10.25,Direct Sales,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,10-12-2024,37,421.44,15354.7,1.53,Direct Sales,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,South,08-09-2024,2,211.35,377.6,10.67,Direct Sales,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,30-10-2024,490,105.09,47590.85,7.58,Direct Sales,Farmer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,East,03-11-2024,41,69.78,2589.47,9.49,Retail,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,East,27-12-2024,297,191.19,51479.86,9.34,E-commerce,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,07-11-2024,449,57.86,25792.09,0.72,E-commerce,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,27-09-2024,264,254.39,65446.41,2.55,Wholesale,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,03-09-2024,399,257.21,99671.14,2.88,Wholesale,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,South,17-12-2024,51,393.09,18397.67,8.23,Retail,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,17-11-2024,161,210.09,31882.96,5.74,Direct Sales,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,25-11-2024,264,285.78,67976.77,9.9,E-commerce,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,15-09-2024,240,93.03,20228.44,9.4,Wholesale,Distributor,Kharif
+P007,Cotton Seeds,Fibers,Cotton,South,03-11-2024,29,249.09,6338.72,12.25,Direct Sales,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,27-11-2024,13,194.24,2506.69,0.73,Direct Sales,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,North,19-10-2024,356,85.75,24684.13,19.14,Retail,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,10-10-2024,413,288.48,111409.91,6.49,Wholesale,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,30-12-2024,192,179.92,34185.38,1.04,Wholesale,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,West,01-11-2024,142,405.54,50854.8,11.69,Wholesale,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,Central,01-10-2024,98,482.47,43679.17,7.62,Direct Sales,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,East,06-10-2024,34,228.97,7510.95,3.52,Retail,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,27-10-2024,335,255.8,82042.48,4.26,Retail,Distributor,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,26-11-2024,355,158.45,51777.89,7.95,Direct Sales,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,12-11-2024,443,70.69,26809.35,14.39,Wholesale,Distributor,Rabi
+P010,Wheat Seeds,Cereals,Wheat,Central,29-12-2024,489,229.3,111152.19,0.87,Retail,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,21-11-2024,373,399.36,125306.23,15.88,E-commerce,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,08-10-2024,81,439.06,34408.03,3.25,Retail,Distributor,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,East,01-10-2024,115,249.16,26931.33,6.01,Wholesale,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,05-12-2024,458,89.35,34014.62,16.88,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,Central,06-12-2024,53,335.21,14344.37,19.26,Wholesale,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,20-12-2024,156,81.11,10365.47,18.08,E-commerce,Farmer,Kharif
+P009,Chilli Seeds,Spices,Chilli,Central,05-09-2024,90,341.63,27847.29,9.43,Direct Sales,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,23-10-2024,29,143.65,4146.27,0.47,Direct Sales,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,13-11-2024,431,173.71,65413.05,12.63,Retail,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,Central,10-09-2024,59,165.9,8164.25,16.59,E-commerce,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,03-10-2024,242,188.93,41958.22,8.23,E-commerce,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,East,03-12-2024,106,222.17,21724.89,7.75,Wholesale,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,05-10-2024,44,179.81,6372.03,19.46,Retail,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,North,15-09-2024,140,394.53,47954.33,13.18,Direct Sales,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,Central,24-09-2024,133,398.02,51052.11,3.56,Wholesale,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,22-10-2024,312,306.4,80683.7,15.6,Direct Sales,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,22-10-2024,488,419.63,172588.11,15.72,E-commerce,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,08-09-2024,183,225.72,35061.18,15.12,Direct Sales,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,East,24-11-2024,124,200.08,22671.3,8.62,E-commerce,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,15-09-2024,78,302.84,23146.73,2.01,Direct Sales,Distributor,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,10-11-2024,382,166.76,57892.67,9.12,Wholesale,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,North,24-11-2024,408,317.93,119727.35,7.7,Wholesale,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,20-09-2024,374,326.11,97791.65,19.82,E-commerce,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,South,31-12-2024,115,389.95,37323.87,16.77,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,South,14-11-2024,186,164.93,26330.05,14.17,E-commerce,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,11-09-2024,205,253.51,42885.27,17.48,Direct Sales,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,30-09-2024,250,227.4,52802.28,7.12,Direct Sales,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,11-12-2024,458,204.18,90278.84,3.46,Retail,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,05-11-2024,173,251.55,43339.73,0.41,Direct Sales,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,15-12-2024,131,161.18,18012.85,14.69,Retail,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,South,26-10-2024,492,157.22,74188.53,4.09,Retail,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,Central,08-10-2024,175,224.56,33132.14,15.69,Retail,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,04-09-2024,488,483.53,219917.18,6.8,E-commerce,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,10-09-2024,231,212.03,48974.03,0.01,Wholesale,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,11-12-2024,104,194.03,19347.74,4.12,E-commerce,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,Central,21-09-2024,166,318.32,42663.92,19.26,Wholesale,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,29-10-2024,251,378.56,76480.44,19.51,Retail,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,26-09-2024,7,354.47,2226.96,10.25,E-commerce,Farmer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,South,06-11-2024,386,450.71,140710.22,19.12,Retail,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,Central,24-09-2024,472,402.78,173762.51,8.6,Wholesale,Distributor,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,South,04-11-2024,372,364.14,121588.97,10.24,E-commerce,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,East,01-09-2024,339,356.76,119804.79,0.94,Wholesale,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,Central,11-11-2024,206,298.58,61046.17,0.75,E-commerce,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,Central,28-10-2024,295,445.65,126918,3.46,Retail,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,Central,03-10-2024,442,61.29,26226,3.19,Wholesale,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,East,15-10-2024,176,397.9,60751.37,13.25,Retail,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,South,11-11-2024,230,278.82,51347.77,19.93,Direct Sales,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,West,19-09-2024,141,466.71,63897.73,2.9,Retail,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,15-11-2024,102,331.54,27959.96,17.32,Wholesale,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,27-11-2024,64,133.36,8241.43,3.44,E-commerce,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,East,07-12-2024,202,334.2,62512.78,7.4,Direct Sales,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,01-10-2024,319,446.12,124779.41,12.32,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,09-10-2024,18,389.75,6711.73,4.33,Retail,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,14-11-2024,185,199.91,31483.93,14.87,Wholesale,Farmer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,East,25-12-2024,351,95.59,28884.99,13.91,E-commerce,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,27-12-2024,157,463.77,61176.55,15.98,E-commerce,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,14-10-2024,269,185.35,46737.97,6.26,Retail,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,25-11-2024,492,165.05,68179.38,16.04,Direct Sales,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,East,15-10-2024,437,372.54,139193.98,14.5,E-commerce,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,East,02-09-2024,34,155.11,4255.38,19.31,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,15-10-2024,51,396.82,19729.85,2.51,Wholesale,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,East,30-09-2024,10,151.54,1255.36,17.16,E-commerce,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,North,11-09-2024,494,274.57,111304.2,17.94,E-commerce,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,08-11-2024,102,291.56,26476.74,10.97,E-commerce,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,22-10-2024,155,230.1,35494.31,0.48,E-commerce,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,West,13-12-2024,327,346.77,99435.01,12.31,E-commerce,Farmer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,South,14-09-2024,194,120.67,20977.68,10.39,Direct Sales,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,31-12-2024,185,426.51,74761.87,5.25,Wholesale,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,20-10-2024,290,364.86,97757.3,7.61,Direct Sales,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,19-10-2024,116,438.75,43505.05,14.52,Wholesale,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,18-11-2024,67,163,10098.65,7.53,E-commerce,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,East,05-09-2024,208,286.38,52305.82,12.19,Wholesale,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,04-12-2024,16,127.44,1779.06,12.75,Direct Sales,Farmer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,Central,25-09-2024,379,303.29,97900.28,14.83,Direct Sales,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,01-09-2024,447,155.62,69075.21,0.7,Direct Sales,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,29-10-2024,179,214.93,35006.1,9.01,E-commerce,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,29-09-2024,317,462.99,146606.39,0.11,Wholesale,Retailer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,North,03-10-2024,82,424.16,34457.66,0.93,E-commerce,Retailer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,24-10-2024,438,90.91,38536.42,3.22,Retail,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,East,26-12-2024,263,201.05,42988.31,18.7,Retail,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,West,04-09-2024,338,480.88,135409.94,16.69,E-commerce,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,23-12-2024,462,257.06,112597.99,5.19,Retail,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,02-09-2024,254,234.22,51995.9,12.6,Retail,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,01-11-2024,134,226.02,26019.29,14.09,Retail,Farmer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,South,23-11-2024,13,432.16,4761.88,15.24,Retail,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,South,29-11-2024,175,493.77,81363.42,5.84,Direct Sales,Distributor,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,20-10-2024,240,316.08,65853.37,13.19,Retail,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,North,24-10-2024,449,212.96,84297.75,11.84,Direct Sales,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,19-09-2024,398,90.75,29602.72,18.04,E-commerce,Distributor,Kharif
+P008,Soybean Seeds,Pulses,Soybean,East,23-11-2024,339,358.87,109612.89,9.9,E-commerce,Retailer,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,North,11-10-2024,243,122.92,26091.06,12.65,Direct Sales,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,East,02-11-2024,201,402.94,79897.56,1.35,Retail,Farmer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,22-10-2024,128,70.66,8255.8,8.72,Retail,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,06-09-2024,317,331.43,85637.1,18.49,Direct Sales,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,East,08-11-2024,497,469.26,188280.3,19.27,E-commerce,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,25-12-2024,239,233.26,51105.24,8.33,Wholesale,Distributor,Kharif
+P007,Cotton Seeds,Fibers,Cotton,North,02-10-2024,191,340.59,54845.92,15.69,Retail,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,South,17-10-2024,247,273.78,54842.79,18.9,Direct Sales,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,13-11-2024,450,204.6,91011.2,1.15,E-commerce,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,East,14-10-2024,475,315.88,139554.99,6.99,Direct Sales,Retailer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,South,09-12-2024,175,98.66,16091.45,6.8,Direct Sales,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,30-09-2024,115,366.42,39669,5.86,Wholesale,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,North,03-11-2024,342,202.27,65876.63,4.77,Retail,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,West,12-09-2024,410,424.2,156477.62,10.03,E-commerce,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,29-09-2024,264,429.97,110742.39,2.44,Wholesale,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,08-09-2024,165,342.85,50873.63,10.07,Direct Sales,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,East,19-11-2024,446,496.52,214029.41,3.35,Retail,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,05-12-2024,341,246.56,80444.84,4.32,E-commerce,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,Central,28-09-2024,459,234.59,101302.34,5.92,Direct Sales,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,East,04-12-2024,315,444.86,119461.59,14.75,Wholesale,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,East,17-10-2024,30,493.34,12544.65,15.24,E-commerce,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,East,11-10-2024,366,252.31,90055.29,2.48,Wholesale,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,03-11-2024,498,72.33,29086.42,19.25,Direct Sales,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,01-12-2024,241,491.7,116591.85,1.61,Wholesale,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,10-12-2024,189,363.4,66141.34,3.7,E-commerce,Distributor,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,South,26-11-2024,144,350.22,43900.78,12.95,Wholesale,Retailer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,Central,30-12-2024,437,64.79,27837.57,1.68,Retail,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,13-10-2024,158,432.97,56663.39,17.17,Retail,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,05-11-2024,152,73.75,9747.09,13.05,E-commerce,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,Central,03-12-2024,189,60.42,9899.46,13.31,Direct Sales,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,03-09-2024,146,126.63,16274.97,11.97,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,29-11-2024,451,96.73,36863.32,15.5,Wholesale,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,East,25-12-2024,224,238,45144.6,15.32,E-commerce,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,08-12-2024,266,123.22,29013.78,11.48,E-commerce,Retailer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,East,05-12-2024,442,327.6,141512.26,2.27,Retail,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,West,27-11-2024,181,435.84,76007.66,3.65,E-commerce,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,20-12-2024,234,371.34,84225.93,3.07,Wholesale,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,30-10-2024,454,316.8,138146.03,3.95,Direct Sales,Distributor,Kharif
+P007,Cotton Seeds,Fibers,Cotton,North,22-09-2024,464,403.23,180718.65,3.41,Direct Sales,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,17-09-2024,499,339.34,145979.96,13.79,Retail,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,West,12-12-2024,217,107.37,22798.36,2.15,Retail,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,30-09-2024,170,335.32,54045.87,5.19,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,05-11-2024,144,392.25,47570.82,15.78,Direct Sales,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,Central,11-09-2024,363,266.19,86055.98,10.94,Wholesale,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,South,27-09-2024,183,91.57,14496.75,13.49,Wholesale,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,Central,07-12-2024,172,245.77,41891.99,0.9,Wholesale,Retailer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,27-12-2024,39,197.41,7463.4,3.06,Wholesale,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,01-11-2024,443,103.58,36919.83,19.54,Retail,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,15-11-2024,180,118.73,19535.6,8.59,Retail,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,02-12-2024,265,71.17,16806.19,10.89,Direct Sales,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,12-09-2024,186,394.05,68236.06,6.9,Direct Sales,Distributor,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,08-11-2024,66,448.64,23785.91,19.67,Direct Sales,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,East,02-10-2024,373,395.05,127210.41,13.67,E-commerce,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,22-09-2024,493,418.52,195105.99,5.44,E-commerce,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,25-09-2024,86,451.01,38267.12,1.34,E-commerce,Farmer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,28-11-2024,214,203.81,35297.89,19.07,Wholesale,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,South,04-11-2024,247,443.84,98216.16,10.41,Retail,Farmer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,West,23-09-2024,360,432.3,133995.71,13.9,Direct Sales,Distributor,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,07-11-2024,269,254.69,58543.17,14.55,E-commerce,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,East,16-10-2024,329,465.54,125087.94,18.33,E-commerce,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,Central,12-09-2024,33,159.52,5235.73,0.54,Direct Sales,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,East,12-10-2024,261,252.92,61351.66,7.06,Wholesale,Distributor,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,Central,04-09-2024,202,437.98,80536.03,8.97,Direct Sales,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,01-12-2024,269,210.08,52340.97,7.38,Wholesale,Distributor,Kharif
+P007,Cotton Seeds,Fibers,Cotton,North,11-12-2024,361,198.36,63279.95,11.63,Wholesale,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,North,08-12-2024,46,479.01,17977.92,18.41,E-commerce,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,North,11-12-2024,199,65.48,10669.39,18.12,Wholesale,Farmer,Kharif
+P009,Chilli Seeds,Spices,Chilli,Central,12-09-2024,156,388.79,54549.73,10.06,Wholesale,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,West,03-12-2024,500,253.93,115461.97,9.06,Direct Sales,Distributor,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,08-09-2024,255,265.73,67029.33,1.08,Direct Sales,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,02-09-2024,372,112.63,33967,18.93,Wholesale,Farmer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,West,17-10-2024,228,204.28,37512.18,19.46,Direct Sales,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,20-09-2024,88,153.71,11715.28,13.39,Direct Sales,Farmer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,Central,07-09-2024,273,178.29,41532.82,14.67,Direct Sales,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,31-10-2024,265,301.62,69906.17,12.54,Direct Sales,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,South,28-09-2024,271,88.01,20461.52,14.21,Wholesale,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,North,25-12-2024,42,213.38,8452.92,5.68,Retail,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,11-10-2024,490,124.7,56752.47,7.12,Retail,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,South,17-11-2024,38,318.93,11644.26,3.92,E-commerce,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,West,12-12-2024,325,219.11,58820.08,17.4,Direct Sales,Distributor,Kharif
+P008,Soybean Seeds,Pulses,Soybean,South,04-11-2024,424,465.21,174565.4,11.5,Direct Sales,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,07-11-2024,330,212.61,65797.27,6.22,Retail,Farmer,Kharif
+P009,Chilli Seeds,Spices,Chilli,Central,29-09-2024,299,91.64,26690.69,2.59,Retail,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,04-09-2024,328,361.19,105000.24,11.37,Retail,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,23-09-2024,413,102.01,37230.4,11.63,Direct Sales,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,South,10-12-2024,84,280.03,20662.18,12.16,E-commerce,Farmer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,North,18-12-2024,147,207.9,27505.17,10,Wholesale,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,East,28-10-2024,388,94.03,35805.04,1.86,Wholesale,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,30-11-2024,126,275.54,33291.13,4.11,Direct Sales,Retailer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,10-11-2024,337,419.07,127725.33,9.56,E-commerce,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,North,11-09-2024,86,148.24,12009.22,5.8,E-commerce,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,02-09-2024,437,316.36,129276.94,6.49,Direct Sales,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,West,26-11-2024,425,102.61,38480.8,11.76,Wholesale,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,25-10-2024,309,136.51,35386.14,16.11,Direct Sales,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,26-09-2024,469,205.77,96042.9,0.48,Wholesale,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,East,15-09-2024,471,385.11,157026.56,13.43,Wholesale,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,South,13-10-2024,28,232.5,6291.26,3.36,Direct Sales,Farmer,Rabi
+P009,Chilli Seeds,Spices,Chilli,West,18-10-2024,208,485.12,88715.64,12.08,Retail,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,South,27-09-2024,176,252.39,36420.48,18.01,Direct Sales,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,04-09-2024,336,276.8,80030.63,13.95,Retail,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,07-11-2024,249,134.18,28816.83,13.75,Direct Sales,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,24-09-2024,56,228.77,12594.61,1.69,E-commerce,Farmer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,23-09-2024,103,117.57,12054.01,0.46,Direct Sales,Farmer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,24-10-2024,168,190.46,28682.36,10.36,Direct Sales,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,25-09-2024,12,417,4141.81,17.23,Retail,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,Central,01-12-2024,284,59.4,16611.5,1.53,Retail,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,Central,15-12-2024,250,295.47,61014.56,17.4,Wholesale,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,16-11-2024,178,211.09,32200.94,14.3,E-commerce,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,South,27-10-2024,407,486.37,193914.36,2.04,Direct Sales,Farmer,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,07-11-2024,52,128.02,5898.8,11.39,E-commerce,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,26-12-2024,463,493.09,183051.48,19.82,E-commerce,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,20-10-2024,110,134.09,12714.41,13.8,E-commerce,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,06-10-2024,224,234.9,48076.7,8.63,Retail,Retailer,Kharif
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,17-09-2024,261,151.39,33135.43,16.14,E-commerce,Farmer,Zaid
+P008,Soybean Seeds,Pulses,Soybean,Central,16-09-2024,393,260.88,93616.34,8.69,E-commerce,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,East,15-11-2024,203,179.04,30395.42,16.37,E-commerce,Farmer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,09-10-2024,146,409.38,54569.54,8.7,E-commerce,Distributor,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,West,22-12-2024,362,432.11,126171.45,19.34,Direct Sales,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,19-10-2024,290,495.13,117282.43,18.32,Direct Sales,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,14-11-2024,374,459.96,141628.22,17.67,Direct Sales,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,East,21-09-2024,90,406.85,32281.11,11.84,E-commerce,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,03-12-2024,301,137.31,35093.57,15.09,E-commerce,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,Central,27-09-2024,392,211.91,67352.12,18.92,Retail,Distributor,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,27-10-2024,445,448.31,167418.68,16.08,Direct Sales,Distributor,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,South,15-12-2024,351,432.51,133608.87,11.99,Direct Sales,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,16-11-2024,358,212.32,66174.79,12.94,Retail,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,22-11-2024,340,495.67,164702.22,2.27,Retail,Distributor,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,East,28-10-2024,370,303.92,90500.08,19.52,E-commerce,Retailer,Rabi
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,02-10-2024,381,465.1,157746.2,10.98,Retail,Retailer,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,East,13-12-2024,380,127.99,40212.41,17.32,Wholesale,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,North,20-10-2024,28,416.11,11540.39,0.95,Retail,Retailer,Zaid
+P007,Cotton Seeds,Fibers,Cotton,West,07-12-2024,198,271.66,53019.5,1.43,E-commerce,Distributor,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,South,02-11-2024,262,483.82,117177.72,7.56,Direct Sales,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,08-11-2024,431,378.5,157015.99,3.75,Direct Sales,Distributor,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,Central,15-11-2024,345,486.99,153394.55,8.7,Retail,Farmer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,North,11-11-2024,156,344.2,49335.15,8.12,Retail,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,South,10-11-2024,171,113.63,19351.06,0.41,Direct Sales,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,Central,25-09-2024,341,425.86,142067.02,2.17,E-commerce,Distributor,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,East,09-10-2024,264,425.56,91001.75,19,Wholesale,Retailer,Rabi
+P009,Chilli Seeds,Spices,Chilli,East,17-11-2024,56,81.27,4137.88,9.08,Direct Sales,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,09-10-2024,70,458.58,25979.02,19.07,E-commerce,Farmer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,North,29-12-2024,450,231.11,88097.98,15.29,Direct Sales,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,South,16-09-2024,237,268.96,55673.59,12.66,Direct Sales,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,14-10-2024,25,263.36,5487.11,16.66,Direct Sales,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,19-11-2024,2,487.66,907.24,6.98,Wholesale,Retailer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,West,15-09-2024,107,52.64,4797.18,14.83,Wholesale,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,Central,30-12-2024,15,358.5,4763.39,11.42,Direct Sales,Retailer,Rabi
+P008,Soybean Seeds,Pulses,Soybean,North,30-09-2024,305,210.89,60217.74,6.38,E-commerce,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,East,26-11-2024,381,195.73,72492.54,2.79,E-commerce,Farmer,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,25-10-2024,19,385.14,6720.54,8.16,Direct Sales,Retailer,Rabi
+P010,Wheat Seeds,Cereals,Wheat,West,23-10-2024,88,179.94,15752.38,0.52,Wholesale,Retailer,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,22-11-2024,111,483.66,46030.6,14.26,Wholesale,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,West,15-12-2024,256,233.87,52692.22,11.99,Direct Sales,Distributor,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,29-11-2024,219,233.45,48809.56,4.53,Wholesale,Retailer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,West,22-12-2024,47,413.49,15607.47,19.69,Wholesale,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,12-10-2024,444,464.76,191248.37,7.32,Retail,Retailer,Kharif
+P002,Basmati Rice Seeds,Cereals,Rice,Central,01-11-2024,194,394.26,63292.53,17.25,Retail,Retailer,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,South,13-10-2024,154,162.94,22809.32,9.1,E-commerce,Distributor,Kharif
+P001,Hybrid Maize Seeds,Cereals,Maize,East,13-11-2024,270,63,16161.2,4.99,Direct Sales,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,North,21-12-2024,374,427.82,151908.44,5.06,Retail,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,East,25-10-2024,419,427.69,148415.19,17.18,E-commerce,Distributor,Kharif
+P010,Wheat Seeds,Cereals,Wheat,West,03-11-2024,45,78.97,3340.08,6.01,Retail,Farmer,Zaid
+P009,Chilli Seeds,Spices,Chilli,East,21-12-2024,158,126.84,16727.99,16.53,Wholesale,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,Central,21-11-2024,137,124.79,14998.52,12.27,Wholesale,Retailer,Zaid
+P005,Tomato Seeds,Vegetables,Tomato,South,20-12-2024,63,74.52,4252.04,9.43,Direct Sales,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,East,08-12-2024,337,266.87,82713.39,8.03,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,East,14-09-2024,10,486.13,4404.34,9.4,Wholesale,Distributor,Rabi
+P005,Tomato Seeds,Vegetables,Tomato,West,04-12-2024,40,120.56,4718.72,2.15,Retail,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,South,07-12-2024,5,450.29,1869.15,16.98,Direct Sales,Distributor,Zaid
+P010,Wheat Seeds,Cereals,Wheat,North,19-12-2024,70,151.98,8974.72,15.64,Direct Sales,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,South,09-12-2024,489,277.62,129239.88,4.8,Retail,Farmer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,Central,03-12-2024,124,200.15,21214.94,14.52,Retail,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,West,26-10-2024,36,477.14,13813.78,19.58,Wholesale,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,East,09-09-2024,418,84.2,32612.24,7.34,Retail,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,North,28-12-2024,162,272.68,38961.61,11.8,Retail,Farmer,Kharif
+P008,Soybean Seeds,Pulses,Soybean,East,10-12-2024,495,332.58,144559.06,12.19,Wholesale,Farmer,Zaid
+P002,Basmati Rice Seeds,Cereals,Rice,South,01-09-2024,68,436.55,28690.94,3.35,Wholesale,Retailer,Rabi
+P001,Hybrid Maize Seeds,Cereals,Maize,South,02-12-2024,489,78.34,35534.74,7.24,Direct Sales,Retailer,Zaid
+P006,Brinjal Seeds,Vegetables,Brinjal,West,04-12-2024,75,453.35,31236.95,8.13,Wholesale,Farmer,Kharif
+P010,Wheat Seeds,Cereals,Wheat,South,25-11-2024,37,124.06,3723.13,18.89,Retail,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,16-10-2024,440,125.82,47947.99,13.39,E-commerce,Distributor,Zaid
+P004,Sunflower Seeds,Oilseeds,Sunflower,West,02-12-2024,67,162.26,8750.41,19.51,Wholesale,Retailer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,East,13-12-2024,488,374.82,154414.45,15.58,Wholesale,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,01-12-2024,411,193.88,64090.39,19.57,Wholesale,Farmer,Zaid
+P001,Hybrid Maize Seeds,Cereals,Maize,North,06-09-2024,47,278.41,11873.57,9.26,E-commerce,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,Central,07-12-2024,57,115.18,5252.86,19.99,Retail,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,East,05-09-2024,313,447.46,115685.41,17.4,Retail,Retailer,Kharif
+P007,Cotton Seeds,Fibers,Cotton,Central,09-11-2024,196,128.84,23848.59,5.56,Wholesale,Distributor,Zaid
+P003,Groundnut Seeds,Oilseeds,Groundnut,South,17-09-2024,7,297.16,1883.13,9.47,E-commerce,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,31-10-2024,342,320.3,94370.95,13.85,Direct Sales,Farmer,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,04-09-2024,425,480.22,176071.46,13.73,E-commerce,Retailer,Zaid
+P009,Chilli Seeds,Spices,Chilli,West,29-12-2024,9,118,954.63,10.11,Direct Sales,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,South,13-11-2024,87,209.71,17848.86,2.17,E-commerce,Distributor,Kharif
+P009,Chilli Seeds,Spices,Chilli,East,30-12-2024,302,485.8,128666.07,12.3,Retail,Distributor,Zaid
+P007,Cotton Seeds,Fibers,Cotton,West,06-11-2024,338,96.15,27282.66,16.05,E-commerce,Distributor,Kharif
+P005,Tomato Seeds,Vegetables,Tomato,Central,14-12-2024,71,169.69,9842,18.31,Retail,Distributor,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,East,22-12-2024,84,310.74,23719.03,9.13,E-commerce,Distributor,Rabi
+P009,Chilli Seeds,Spices,Chilli,North,02-11-2024,154,390.04,50761.91,15.49,Retail,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,South,29-11-2024,2,149.5,280.64,6.14,Wholesale,Retailer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,East,18-12-2024,10,273.95,2644.44,3.47,Retail,Distributor,Kharif
+P006,Brinjal Seeds,Vegetables,Brinjal,East,12-11-2024,385,233.02,85083.52,5.16,Direct Sales,Farmer,Rabi
+P004,Sunflower Seeds,Oilseeds,Sunflower,North,06-11-2024,292,162.67,47485.39,0.03,E-commerce,Distributor,Rabi
+P010,Wheat Seeds,Cereals,Wheat,East,20-12-2024,479,315.37,148599.92,1.63,E-commerce,Retailer,Rabi
+P002,Basmati Rice Seeds,Cereals,Rice,Central,11-09-2024,103,141.25,12106.01,16.79,E-commerce,Farmer,Zaid
+P010,Wheat Seeds,Cereals,Wheat,East,30-11-2024,239,494.63,112341.21,4.97,Wholesale,Farmer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,28-09-2024,226,489.36,108914.31,1.52,Retail,Retailer,Kharif
+P003,Groundnut Seeds,Oilseeds,Groundnut,Central,08-12-2024,302,53.36,13642.72,15.34,Direct Sales,Retailer,Rabi
+P007,Cotton Seeds,Fibers,Cotton,West,26-11-2024,303,80.6,22172.55,9.21,Direct Sales,Retailer,Rabi
+P003,Groundnut Seeds,Oilseeds,Groundnut,West,15-09-2024,88,207.24,15765.99,13.55,E-commerce,Distributor,Zaid
+P009,Chilli Seeds,Spices,Chilli,South,29-12-2024,374,356.99,112539.17,15.71,Retail,Farmer,Kharif
+P009,Chilli Seeds,Spices,Chilli,West,22-10-2024,4,182.43,704.91,3.4,E-commerce,Farmer,Kharif
